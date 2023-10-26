@@ -24,7 +24,7 @@ References:
 
 [3] Pengpeng Liang, Erik Blasch, Haibin Ling: Encoding Color Information for Visual Tracking: Algorithms and Benchmark. IEEE Trans. Image Process. 24(12): 5630-5644 (2015). https://doi:10.1109/tip.2015.2482905
 
-[4] Matthias Mueller, Neil Smith, Bernard Ghanem: A Benchmark and Simulator for UAV Tracking. ECCV (1) 2016: 445-461. https://doi:10.1007/978-3-319-46448-0 27
+[4] Matthias Mueller, Neil Smith, Bernard Ghanem: A Benchmark and Simulator for UAV Tracking. ECCV (1) 2016: 445-461. https://doi.org/10.1007/978-3-319-46448-0_27
 
 [5] Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling: LaSOT: A High-Quality Benchmark for Large-Scale Single Object Tracking. CVPR 2019: 5374-5383. https://doi:10.1109/cvpr.2019.00552
 
