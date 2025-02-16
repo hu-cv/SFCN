@@ -31,14 +31,8 @@ References:
 
 # Experimental Results
 
-* **Results: Different attributes-based success plots of OPE for the OTB100 dataset (Figure 3).** 
-![image text](https://github.com/hu-cv/SFCN/blob/main/Experimental%20Results/Figure3.png)
-
-* **Results: Different attributes-based success plots of OPE for the TC128 dataset (Figure 5).** 
-![image text](https://github.com/hu-cv/SFCN/blob/main/Experimental%20Results/Figure5.png)
-
 * **Results: Different attributes-based success plots of OPE for the UAV123 dataset (Figure 7).** 
 ![image text](https://github.com/hu-cv/SFCN/blob/main/Experimental%20Results/Figure7.png)
 
-* **Results: Different attributes-based success plots of OPE for the LaSOT dataset (Figure 9).** 
+* **Results: Different attributes-based success plots of OPE for the LaSOT dataset (Figure 10).** 
 ![image text](https://github.com/hu-cv/SFCN/blob/main/Experimental%20Results/Figure9.png)
