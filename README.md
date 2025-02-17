@@ -36,3 +36,5 @@ References:
 
 * **Results: Different attributes-based success plots of OPE for the LaSOT dataset (Figure 10).** 
 ![image text](https://github.com/hu-cv/SFCN/blob/main/Experimental%20Results/Figure10.png)
+
+The source code as well as our experimental datasets and results are available from the ﬁrst author (qixu@hhu.edu.cn) upon reasonable request. If you have any problem, please contact qixu@hhu.edu.cn.
